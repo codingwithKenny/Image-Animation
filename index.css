@@ -11,7 +11,7 @@
     height: 50%;
     object-fit: cover;
     transition: all ease-in-out 0.5s;
-    /* border: 2px  solid white; */
+    border: thin solid white;
     border-radius: 10px;
 }
 .container img:hover{
